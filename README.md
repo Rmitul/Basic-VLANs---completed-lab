@@ -1,2 +1,2 @@
 "# Basic-VLANs---completed-lab" 
-(screenshot.png)
+![Loot Lab Screenshot](screenshot.png)
